@@ -45,6 +45,7 @@ namespace SSOAssignment
             return vowels;
         }
 
+        
         private static void MoreVowelsOrConsonants(string input, int cachedVowelCount)
         {
             var vowels = cachedVowelCount == -1 ? TextAnalyser.CountDistinctVowels(input) : cachedVowelCount ;
