@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSOAssignment", "SSOAssignment\SSOAssignment.csproj", "{24798135-A8CC-4156-BA0B-BF3EE37ECC38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSOAssignment.Test", "SSOAssignment.Test\SSOAssignment.Test.csproj", "{A2F4E3F3-6727-4F4E-A3E9-40A8D83BFEBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24798135-A8CC-4156-BA0B-BF3EE37ECC38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24798135-A8CC-4156-BA0B-BF3EE37ECC38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24798135-A8CC-4156-BA0B-BF3EE37ECC38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24798135-A8CC-4156-BA0B-BF3EE37ECC38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2F4E3F3-6727-4F4E-A3E9-40A8D83BFEBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2F4E3F3-6727-4F4E-A3E9-40A8D83BFEBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2F4E3F3-6727-4F4E-A3E9-40A8D83BFEBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2F4E3F3-6727-4F4E-A3E9-40A8D83BFEBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
