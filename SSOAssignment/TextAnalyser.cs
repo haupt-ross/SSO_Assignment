@@ -3,7 +3,7 @@ using System.Text.RegularExpressions;
 
 namespace SSOAssignment
 {
-    public class TextAnalyser
+    public static class TextAnalyser
     {
         public static string FindDuplicates(string input)
         {
